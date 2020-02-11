@@ -1,1 +1,16 @@
 Object oriented programming
+- Correspondence between Real world <-> Software world
+
+1. Real world actor -> Data in RAM
+    - Objects
+        - str, int, float, bool
+        - Student, Book, Account
+    - Class
+        - We create objects from a class
+        - A class also gives a data type to an object
+        - 1 to n objects from a class
+2. Real world actor characteristics -> Attributes of the object
+    - Create an attribute in the object
+        s1.attribute-name = value
+3. Real world actor actions -> Method calls on the object
+    - s1.method_call()
