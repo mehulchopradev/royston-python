@@ -14,3 +14,21 @@ Object oriented programming
         s1.attribute-name = value
 3. Real world actor actions -> Method calls on the object
     - s1.method_call()
+
+
+- Book
+- every book in library <-> Book object
+- class : Book
+- characteristics:
+    - title
+    - price
+    - pages
+- Book('Book 1', 900, 560) -> Book.__init__(address, 'Book 1', 900, 560)
+- bobj.get_details()
+- bobj.is_expensive()
+    - A book is expensive when its price is more than 600
+
+
+- Immutability
+    - After the creation of an object with its attributes, we cannot modify any
+    of the attributes of that object
