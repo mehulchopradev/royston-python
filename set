@@ -1,0 +1,4 @@
+- collection of elements
+- no duplicate elements
+- order of the elements is not maintained in the set
+- set is a mutable data structure

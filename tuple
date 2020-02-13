@@ -1,0 +1,7 @@
+- representing a collection of elements
+- elements in the tuple can be of the same data type or different data type
+- tuple can be used to contain homogenous as well as heterogenous elements
+- Ideally use a tuple only for heterogenous elements
+- can have duplicate elements
+- ordered data structure
+- tuple is an immutable data structure

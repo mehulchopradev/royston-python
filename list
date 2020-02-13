@@ -1,0 +1,7 @@
+- representing a collection of elements
+- elements in the list can be of the same data type or different data type
+- list can be used to contain homogenous as well as heterogenous elements
+- Ideally use a list only for homogenous elements
+- can have duplicate elements
+- ordered data structure
+- list is a mutable data structure

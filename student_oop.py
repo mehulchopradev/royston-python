@@ -17,6 +17,15 @@ s1.roll = 10
 s1.gender = 'm'
 s1.marks = 45 '''
 
+''' t = s1.get_name_roll()
+name = t[0]
+roll = t[-1] '''
+
+name, roll = s1.get_name_roll() # tuple unpacking. Works with a list too
+print(name)
+print(roll)
+# Student.get_name_roll(s1)
+
 
 s2 = Student('jane', 11, 'f', 67) # 4006 (RAM)
 ''' s2.name = 'jane'
